@@ -1,2 +1,2 @@
 # SpringBoot
-THis is a smaple example
+This is a smaple example
